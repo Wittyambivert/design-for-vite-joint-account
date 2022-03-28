@@ -7,8 +7,8 @@ https://www.figma.com/file/p2XDkmUSNL4KMIXrcr5sZc/Gitcoin%3A%2FVite-Joint-Accoun
 *File contains*
 1. Landing Page for Web
 2. Landing Page for Mobile
-3. Light mode dashboard for joint wallet (web)
-4. Dark mode dashboard for joint wallet (mobile)
+3. Light/Dark mode dashboard for joint wallet (web)
+4. Light/Dark mode dashboard for joint wallet (mobile)
 
 
 ## Short Documentation
@@ -75,7 +75,7 @@ This section shows a table of all transactions made with the joint wallet.
 
 
 ## Addendum
-The responsive/mobile versions of the design are all in the same document with the link above. 
+The responsive/mobile versions of the design are all included in the same document with the link above. 
 
 
 
