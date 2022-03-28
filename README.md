@@ -1,5 +1,5 @@
 # design-for-vite-joint-account
-UI design for Vite joint accounts that would need a certain number of votes to move funds.
+UI design for Vite joint accounts that would need a certain number of votes to move funds. 
 
 Full Figma file.
 https://www.figma.com/file/p2XDkmUSNL4KMIXrcr5sZc/Gitcoin%3A%2FVite-Joint-Account?node-id=0%3A1
@@ -13,7 +13,7 @@ https://www.figma.com/file/p2XDkmUSNL4KMIXrcr5sZc/Gitcoin%3A%2FVite-Joint-Accoun
 
 ## Short Documentation
 ### 1. The journey starts here
-/vite-joint-wallet-dashboard-images/start-page.PNG
+/design-for-vite-joint-account/vite-joint-wallet-dashboard-images/start-page.PNG
 
 Once connect wallet is clicked on the landing page, it redirects to this page where the user is required to connect a wallet. For this demonstration, vite, metamask and walletconnect was used.
 Note: Metamask wallet screen wasn't designed since it uses a chrome plugin and connects automatically.
