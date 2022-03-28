@@ -1,5 +1,5 @@
 # design-for-vite-joint-account
-UI design for Vite joint accounts that would need a certain number of votes to move funds. vite-joint-wallet-dashboard-images/dashboard-sections.PNG
+UI design for Vite joint accounts that would need a certain number of votes to move funds. 
 
 Full Figma file.
 https://www.figma.com/file/p2XDkmUSNL4KMIXrcr5sZc/Gitcoin%3A%2FVite-Joint-Account?node-id=0%3A1
@@ -13,18 +13,25 @@ https://www.figma.com/file/p2XDkmUSNL4KMIXrcr5sZc/Gitcoin%3A%2FVite-Joint-Accoun
 
 ## Short Documentation
 ### 1. The journey starts here
-/design-for-vite-joint-account/vite-joint-wallet-dashboard-images/start-page.PNG
+
+![Start page](vite-joint-wallet-dashboard-images/start-page.PNG)
 
 Once connect wallet is clicked on the landing page, it redirects to this page where the user is required to connect a wallet. For this demonstration, vite, metamask and walletconnect was used.
+
 Note: Metamask wallet screen wasn't designed since it uses a chrome plugin and connects automatically.
+
+![Scan with vite mobile](/vite-joint-wallet-dashboard-images/scan-with-vite-mobile-app.PNG)
 
 ### 2. Choosing an existing wallet or creating a new one
 If the connection was successful, it takes you to a page where it shows the user all previously created joint wallets. In addition, the user can also create another wallet on that same page.
-/vite-joint-wallet-dashboard-images/scan-with-vite-mobile-app.PNG
+
+![Load joint wallets](/vite-joint-wallet-dashboard-images/load-joint-wallets.PNG)
+
 
 If the "Create new joint wallet" card is clicked, the user is redirected to page where a joint wallet can be created
 
-/vite-joint-wallet-dashboard-images/load-joint-wallets.PNG
+![New joint wallets](/vite-joint-wallet-dashboard-images/new-wallet.PNG)
+
 The wallet creation page allows the user to:
 
 
@@ -45,7 +52,9 @@ Choosing an existing wallet takes you directly to the dashboard.
 The dashboard allows you to perform a lot of useful actions which will be outlined in sections.
 
 #### Overview tab
-/vite-joint-wallet-dashboard-images/dashboard-sections.PNG
+
+![Dashboard sections](/vite-joint-wallet-dashboard-images/dashboard-sections.PNG)
+
 - Section 1: Shows a tab menu to choose between an account overview, a list of motions you've previously raised and transaction history.
 
 - Section 2: Shows a switch to select a light theme or dark theme.
@@ -64,15 +73,17 @@ The dashboard allows you to perform a lot of useful actions which will be outlin
 
 - Section 9: Shows the name and joint wallet address of the joint wallet and a button to choose another joint wallet 
 
-#### **Motions tab**
-/vite-joint-wallet-dashboard-images/motion-section.PNG
+#### Motions tab
+
+![Motions section](/vite-joint-wallet-dashboard-images/motion-section.PNG)
 
 - Card 1 (left): The card on the left shows a section for creating a new motion with 3 different motives (transfer funds, change number of votes needed to reach approval threshold, remove a signee).
 
 - Card 2 (right): Shows a list of motions the user/signee has requested from the account. It also spots the thumbs up and thumbs down bottons to allow the user vote against their own motion. In addition to the previous buttons, the user also has the sole privilege of removing motions raised by iteself.
 
 #### Transaction history tab
-/vite-joint-wallet-dashboard-images/transaction-history.PNG
+![Transaction history section](/vite-joint-wallet-dashboard-images/transaction-history.PNG)
+
 This section shows a table of all transactions made with the joint wallet.
 
 
