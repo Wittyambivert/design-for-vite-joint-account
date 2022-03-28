@@ -30,7 +30,7 @@ If the connection was successful, it takes you to a page where it shows the user
 
 If the "Create new joint wallet" card is clicked, the user is redirected to page where a joint wallet can be created
 
-![New joint wallets](/vite-joint-wallet-dashboard-images/new-wallet.PNG)
+![New joint wallets](vite-joint-wallet-dashboard-images/new-joint-wallet.PNG)
 
 The wallet creation page allows the user to:
 
