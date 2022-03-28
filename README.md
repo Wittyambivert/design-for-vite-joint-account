@@ -1,5 +1,5 @@
 # design-for-vite-joint-account
-UI design for Vite joint accounts that would need a certain number of votes to move funds. 
+UI design for Vite joint accounts that would need a certain number of votes to move funds. vite-joint-wallet-dashboard-images/dashboard-sections.PNG
 
 Full Figma file.
 https://www.figma.com/file/p2XDkmUSNL4KMIXrcr5sZc/Gitcoin%3A%2FVite-Joint-Account?node-id=0%3A1
