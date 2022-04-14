@@ -95,3 +95,10 @@ The responsive/mobile versions of the design are all included in the same docume
 
 ##### Design system used
 Finity Design system: https://finity.polygon.technology/
+
+#UPDATE 14-04-2022
+###UI refresh
+
+The UI and the UX has been redone to make the process a lot more painless.
+UI link: https://www.figma.com/file/6QPkGO8raFcrBrhSTFQ6uD/Vite-Joint-wallet-V2?node-id=0%3A1
+Prototype: https://www.figma.com/proto/6QPkGO8raFcrBrhSTFQ6uD/Vite-Joint-wallet-V2?page-id=0%3A1&node-id=4%3A5592&viewport=241%2C48%2C0.73&scaling=min-zoom&starting-point-node-id=4%3A5592
