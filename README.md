@@ -96,8 +96,8 @@ The responsive/mobile versions of the design are all included in the same docume
 ##### Design system used
 Finity Design system: https://finity.polygon.technology/
 
-#UPDATE 14-04-2022
-###UI refresh
+# UPDATE 14-04-2022
+### UI refresh
 
 The UI and the UX has been redone to make the process a lot more painless.
 
